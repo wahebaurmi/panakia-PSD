@@ -1,0 +1,149 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: #edeff1;
+}
+
+.banner {
+  background: url(../img/banner-bg.png) no-repeat;
+  background-size: cover;
+}
+.banner-text {
+}
+.banner-text h1 {
+  color: white;
+  font-size: 47px;
+}
+.banner-text h5 {
+  color: white;
+  font-size: 23px;
+}
+.banner-item {
+}
+.banner-item h5 {
+  color: white;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.banner-item p {
+  color: white;
+  text-align: center;
+}
+.readmore-btn {
+  background-color: white;
+  height: 55px;
+  width: 25%;
+  font-size: 22px;
+  margin: 60px 55px;
+  margin-bottom: 300px;
+  color: black;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.readmore-btn:hover {
+  background-color: aqua;
+}
+.news {
+  background-color: #edeff1;
+}
+.news-title {
+  margin-bottom: 100px;
+}
+.card-body {
+  background-color: #edeff1;
+}
+.card-body h4 {
+  text-align: center;
+}
+.card-body p {
+  text-align: center;
+}
+.card-btn {
+  background-color: white;
+  height: 45px;
+  width: 40%;
+  font-size: 15px;
+  color: black;
+  border-radius: 20px;
+  margin-top: 30px;
+  margin-left: 84px;
+}
+.card-btn:hover {
+  background-color: rgb(214, 212, 212);
+}
+.newsletter {
+  background: url(../img/newsletter-bg.png) no-repeat;
+  background-size: cover;
+}
+
+.newsletter-title h1 {
+  color: white;
+}
+.newsletter-title p {
+  text-align: center;
+  color: white;
+}
+.newsletter-btn {
+  margin-left: 150px;
+}
+.form-control {
+  background-color: #5e535347;
+  position: relative;
+  width: 50%;
+  margin-left: 90px;
+  height: 45px;
+  border-radius: 20px;
+}
+.signup-btn {
+  position: absolute;
+  background-color: white;
+  height: 45px;
+  width: 20%;
+  font-size: 15px;
+  color: black;
+  border-radius: 20px;
+  margin-top: -45px;
+  margin-left: 432px;
+}
+/*section chart*/
+.text1 {
+}
+.text1 h1 {
+  padding: 29px;
+}
+.text1 p {
+}
+.text2 h1 {
+  padding: 50px;
+}
+.text2 p {
+}
+.chart-btn {
+  background-color: #dd4b2b;
+  height: 45px;
+  width: 40%;
+  font-size: 15px;
+  color: white;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+.chart-btn:hover {
+  background-color: #4b4e73;
+}
+.orange {
+  background-color: #dd4b2b;
+}
+.orange-text {
+}
+
+.orange-text p {
+  font-size: 15px;
+  color: white;
+}
+footer {
+  background: url(../img/newsletter-bg.png) no-repeat;
+  background-size: cover;
+}
